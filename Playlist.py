@@ -37,7 +37,4 @@ def tocarMusicas(indice,pasta):
             pygame.quit()
 
     continuarPlaylist()
-
-tocarMusicas(0,caminho)
-
-
+    
